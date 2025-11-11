@@ -23,3 +23,30 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+// Custom font size - increase base font size for better readability
+// Options: 16px (default), 18px (medium), 20px (large), 22px (extra large), 24px (very large)
+html {
+  font-size: 22px; // Larger base font size
+  
+  @media (min-width: 768px) {
+    font-size: 24px; // Even larger font on desktop
+  }
+}
+
+// Reduce side margins and increase content width
+.container {
+  max-width: 1500px !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  
+  @media (max-width: 768px) {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+// Reduce margins on main content area
+.container.mt-5 {
+  margin-top: 2rem !important;
+}
