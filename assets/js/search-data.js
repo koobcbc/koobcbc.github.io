@@ -7,35 +7,35 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/al-folio/";
+      window.location.href = "/";
     },
   },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/blog/";
+            window.location.href = "/blog/";
           },
         },{id: "nav-publications",
           title: "publications",
           description: "List of publications in chronological order, including peer-reviewed and preprint papers.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-cv",
           title: "cv",
           description: "Curriculum Vitae of Beechui (Katy) Koo - MS in Applied Data Science @ University of Chicago",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "post-presenting-at-the-us-korea-conference-2025",
         
@@ -45,7 +45,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2025/us-korea-conference/";
+            window.location.href = "/blog/2025/us-korea-conference/";
           
         },
       },{id: "post-winning-2nd-place-at-united-airlines-genai-hackathon",
@@ -56,7 +56,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2025/united-airlines-genai-hackathon/";
+            window.location.href = "/blog/2025/united-airlines-genai-hackathon/";
           
         },
       },{id: "post-presenting-at-uchicagograd-7th-annual-transcending-boundaries-research-symposium",
@@ -67,7 +67,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/al-folio/blog/2025/uchicago-transcending-boundaries-symposium/";
+            window.location.href = "/blog/2025/uchicago-transcending-boundaries-symposium/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -96,7 +96,7 @@ ninja.data = [{
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/al-folio/books/the_godfather/";
+              window.location.href = "/books/the_godfather/";
             },},{id: "news-our-paper-stress-granules-are-shock-absorbers-that-prevent-excessive-innate-immune-responses-to-dsrna-was-published-in-molecular-cell-see-publication",
           title: 'Our paper “Stress granules are shock absorbers that prevent excessive innate immune responses...',
           description: "",
@@ -110,47 +110,47 @@ ninja.data = [{
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/1_project/";
+              window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/2_project/";
+              window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/3_project/";
+              window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/4_project/";
+              window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/5_project/";
+              window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/6_project/";
+              window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/7_project/";
+              window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/8_project/";
+              window.location.href = "/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/9_project/";
+              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
