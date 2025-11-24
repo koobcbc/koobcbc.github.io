@@ -16,6 +16,15 @@ In May 2025, I had the honor of presenting my research at the **UChicagoGRAD 7th
 
 I delivered an **oral presentation** on our work titled **"Quantitative Comparison of CT Metal Artifact Reduction (MAR) Algorithms in Radiation Oncology"**. This research, conducted in collaboration with Dr. James J. Sohn and colleagues at the Department of Radiation and Cellular Oncology, addresses a critical challenge in radiation therapy planning.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/uchicago_transcending_symposium_052025/IMG_6416.JPG" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/uchicago_transcending_symposium_052025/IMG_5320.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 ## Impact and Significance
 
 This research establishes a **quantitative benchmarking framework** for cross-vendor MAR performance, offering objective metrics to:

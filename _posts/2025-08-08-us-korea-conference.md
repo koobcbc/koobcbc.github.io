@@ -14,6 +14,12 @@ In August 2025, I had the opportunity to present my research at the **US-Korea C
 
 I presented a **poster** on our research: **"Quantitative Comparison of CT Metal Artifact Reduction (MAR) Algorithms in Radiation Oncology"**. This work, conducted in collaboration with Dr. James J. Sohn and colleagues, addresses critical challenges in radiation therapy planning for patients with metal implants.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ukc_08082025/IMG_3648.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 ## Conference Experience
 
 The US-Korea Conference provided an excellent platform for:
